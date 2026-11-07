@@ -8,6 +8,18 @@ I'm a builder and reverse engineer working on sovereign compute — systems that
 
 <img src="images/hologram.jpg" alt="Holographic plate" width="700">
 
+
+## Your agent, behind one button
+
+<img src="images/twin-poster.webp" alt="The blank twin" width="420">
+
+Mark didn't build an app. He built digital identity — and "Sign in
+with Facebook" is the button that verified it. The same press
+should wake YOUR agent: grounded on your data, sealed in your
+ledger. First module live: **your credit** — the Sovereign Dispute
+Engine, one flat subscription. The face is blank on purpose: the
+twin was never "be me." Anyone signs in. Anyone steps in.
+
 ## The machine, in one diagram
 
 This is not decoration. It is the pipeline every proposal in the sovereign-canvas-machine goes through, stage by stage, with the real module each stage names. A failure at any stage is a rejection, not a warning.
